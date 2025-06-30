@@ -29,7 +29,7 @@
 - 🌀 `Roblox Studio` – obby creation, glitch FX, monetization features
 
 **Languages:**  
-- `GDScript` `C#` `Python` `C` `Java` `JavaScript` 
+- `GDScript` `C#` `Python` `C` `Java` `JavaScript` `HTML` `CSS` 
 
 
 ### 📫 Let’s Connect
