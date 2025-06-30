@@ -35,5 +35,5 @@
 ### 📫 Let’s Connect
 - GitHub DMs open
 - Game Website: https://gyvn.itch.io/
-- LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="gyan-vadhel-483321290" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gyan-vadhel-483321290?trk=profile-badge">Gyan Vadhel</a></div>
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="gyan-vadhel-483321290" data-version="v1"> LinkedIn: <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gyan-vadhel-483321290?trk=profile-badge">Gyan Vadhel</a></div>
               
