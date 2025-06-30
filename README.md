@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyan</h1>
-<h3 align="center">Game Developer | Designer | Web Developer(sometimes)</h3>
+<h3 align="center">Game Developer | Designer | Web Developer (sometimes)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gyan&label=Profile%20views&color=0e75b6&style=flat" alt="gyan" />
