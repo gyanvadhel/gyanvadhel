@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Creative Game Developer** and **Web Programmer** from Ahmedabad, Gujarat, India, with a passion for building engaging games and robust web applications. Currently pursuing B.Sc. in Computer Science & Engineering at Indus University.
+I'm a **Creative Game Developer** and **AI/ML Developer** from Ahmedabad, Gujarat, India, with a passion for building engaging games and robust web applications. Currently pursuing B.Tech. in Computer Science & Engineering at Indus University.
 
 - 🎮 **Game Development:** Experienced in Unity & Godot engines with focus on 2D/3D gameplay systems
 - 💻 **Full-Stack Development:** Building clean, functional web apps with modern technologies
