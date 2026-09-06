@@ -104,14 +104,6 @@ I'm a **Game Developer** and **Full-Stack Engineer** from Ahmedabad, Gujarat, In
 - **B.Tech — Computer Science & Engineering** · Indus University · Expected May 2027
 - **Diploma — Computer Engineering (Games and Animation)** · LJ University, Ahmedabad · Completed May 2024
 
-## GitHub Stats
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanvadhel&layout=compact&theme=tokyonight)
-  
-</div>
-
 ## Honors & Certifications
 
 - **1st Rank in Branch** — LJ University, Summer Exam 2024 (Semester 6)
