@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gyan Vadhel!
+# Hi there, I'm Gyan Vadhel
 
 <div align="center">
   
@@ -6,18 +6,18 @@
   
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a **Game Developer** and **Full-Stack Engineer** from Ahmedabad, Gujarat, India, working across Unity, Godot, Python, React, and AI/ML systems. I've shipped 6+ games on itch.io and built production-oriented web apps and LLM pipelines. Currently pursuing a B.Tech in Computer Science & Engineering at Indus University.
 
-- 🎮 **Game Development:** Unity & Godot — combat systems, FPS, platformers, level design
-- 🤖 **AI / ML:** LLM routing, document extraction, computer vision, validation pipelines
-- 💻 **Full-Stack Development:** Flask, React, Node.js, REST APIs, MongoDB & MySQL
-- 🏆 **Academic Excellence:** 1st Rank in Branch — LJ University, Summer Exam 2024
-- 🎯 **Looking for:** roles in game development, AI/ML, or web engineering where strong fundamentals and fast learning create real impact from day one
-- 📫 **Reach me at:** gyanvadhel@gmail.com
+- **Game Development:** Unity & Godot — combat systems, FPS, platformers, level design
+- **AI / ML:** LLM routing, document extraction, computer vision, validation pipelines
+- **Full-Stack Development:** Flask, React, Node.js, REST APIs, MongoDB & MySQL
+- **Academic Excellence:** 1st Rank in Branch — LJ University, Summer Exam 2024
+- **Looking for:** roles in game development, AI/ML, or web engineering where strong fundamentals and fast learning create real impact from day one
+- **Reach me at:** gyanvadhel@gmail.com
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### AI / ML
 ![Python](https://img.shields.io/badge/python-3670A6?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,45 +51,45 @@ I'm a **Game Developer** and **Full-Stack Engineer** from Ahmedabad, Gujarat, In
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![FPDF](https://img.shields.io/badge/FPDF-CC0000?style=for-the-badge)
 
-## 🤖 Featured AI / ML Project
+## Featured AI / ML Project
 
-### 🧠 [Hierarchical LLM Routing Pipeline](https://github.com/gyanvadhel/Hierarchical-LLM-Routing-Pipeline)
+### [Hierarchical LLM Routing Pipeline](https://github.com/gyanvadhel/Hierarchical-LLM-Routing-Pipeline)
 > **Python · LLM Routing · Vision · Validation**
 > 
 > Cost-optimized document extraction pipeline that routes mixed document images through cheap models first, uses deterministic validation to detect errors, and escalates only failed cases to larger models. Reported **~5.2× lower cost per document** with **100% measured routing/field accuracy** on the starter evaluation set.
 
-## 🎮 Featured Game Projects
+## Featured Game Projects
 
-### ⚔️ [Devil May Cry — Combat Prototype](https://gyvn.itch.io/devil-may-cry)
+### [Devil May Cry — Combat Prototype](https://gyvn.itch.io/devil-may-cry)
 > **Stylish Hack-and-Slash | Unity · C#**
 > 
 > Custom combat system with chained combos, dodge-cancel mechanics, and responsive enemy hit reactions — focused on game-feel and frame-perfect input handling.
 
-### 🏥 [Last Patient — Survival Horror](https://gyvn.itch.io/last-patient)
+### [Last Patient — Survival Horror](https://gyvn.itch.io/last-patient)
 > **PS1-Style Horror | Unity · C#**
 > 
 > A short horror game. You wake up alone in an abandoned hospital.
 
-### 🌧️ [The Break — Short Narrative](https://gyvn.itch.io/the-break)
+### [The Break — Short Narrative](https://gyvn.itch.io/the-break)
 > **Narrative Experience | Unity · C#**
 > 
 > A short narrative game about my semester break — days that were pretty much the same, doing things I didn't really want to do, following a routine that slowly got tiring.
 
-### 🔫 [Cute To Kill](https://gyvn.itch.io/cute-to-kill)
+### [Cute To Kill](https://gyvn.itch.io/cute-to-kill)
 > **3D Endless FPS | Godot Engine**
 > 
 > Arena-style FPS where adorable enemies try to push you off the map. Three difficulty modes and intelligent enemy behaviors.
 
-> 🕹️ More games (Flappy Plane, Laser Defender, Radboy and others) on [itch.io](https://gyvn.itch.io).
+> More games (Flappy Plane, Laser Defender, Radboy and others) on [itch.io](https://gyvn.itch.io).
 
-## 💻 Web Development Projects
+## Web Development Projects
 
-### 🎲 [TixGen — Housie Ticket Generator](https://tixgen.onrender.com)
+### [TixGen — Housie Ticket Generator](https://tixgen.onrender.com)
 > **Production Web App | Python · Flask · FPDF**
 > 
 > Generates print-ready Housie tickets as dynamic PDFs. Handles custom user data, ticket validation rules, and on-the-fly layout generation. Live on Render.
 
-## 💼 Experience
+## Experience
 
 **Technical Intern · TV9 Gujarati News, Ahmedabad** — Nov 2022 – Jan 2023
 - Configured servers, OS installs, and network infrastructure during a full office relocation.
@@ -99,12 +99,12 @@ I'm a **Game Developer** and **Full-Stack Engineer** from Ahmedabad, Gujarat, In
 - Taught speaking, reading, and writing modules to 10+ students; designed personalized improvement plans.
 - Ran structured mock tests and drills; documented progress for parents and academy records.
 
-## 🎓 Education
+## Education
 
 - **B.Tech — Computer Science & Engineering** · Indus University · Expected May 2027
 - **Diploma — Computer Engineering (Games and Animation)** · LJ University, Ahmedabad · Completed May 2024
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -112,14 +112,14 @@ I'm a **Game Developer** and **Full-Stack Engineer** from Ahmedabad, Gujarat, In
   
 </div>
 
-## 🏆 Honors & Certifications
+## Honors & Certifications
 
-- 🥇 **1st Rank in Branch** — LJ University, Summer Exam 2024 (Semester 6)
-- 🎓 **Complete C# Unity Game Developer 2D** — Udemy (Sep 2023)
-- 🌐 **Full-Stack: Frontend to Backend** — Indus University (Dec 2024)
-- 🗣️ **IELTS 7.0 (C1)** — Advanced English Proficiency
+- **1st Rank in Branch** — LJ University, Summer Exam 2024 (Semester 6)
+- **Complete C# Unity Game Developer 2D** — Udemy (Sep 2023)
+- **Full-Stack: Frontend to Backend** — Indus University (Dec 2024)
+- **IELTS 7.0 (C1)** — Advanced English Proficiency
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -130,16 +130,16 @@ I'm a **Game Developer** and **Full-Stack Engineer** from Ahmedabad, Gujarat, In
   
 </div>
 
-## 📍 Location & Languages
+## Location & Languages
 
-**📍 Based in:** Ahmedabad, Gujarat, India  
-**🗣️ Languages:** English (C1 — IELTS 7.0) · Gujarati (C2 — Native) · Hindi (C1 — Fluent)
+**Based in:** Ahmedabad, Gujarat, India  
+**Languages:** English (C1 — IELTS 7.0) · Gujarati (C2 — Native) · Hindi (C1 — Fluent)
 
 ---
 
 <div align="center">
   
-  **💡 "Strong fundamentals and rapid self-learning — whether it's a frame-perfect combat system, an LLM pipeline, or a production web app."**
+  **"Strong fundamentals and rapid self-learning — whether it's a frame-perfect combat system, an LLM pipeline, or a production web app."**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=gyanvadhel&color=brightgreen&style=flat-square)
   
